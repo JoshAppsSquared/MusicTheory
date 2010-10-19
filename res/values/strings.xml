@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Easy Music Theory</string>
+    <string name="app_name">Easy Music Theory</string>
+	<string name="cmajTitle">C Major</string>
+	<string name="dmajTitle">D Major</string>
+	<string name="emajTitle">E Major</string>
+	<string name="fmajTitle">F Major</string>
+	<string name="gmajTitle">G Major</string>
+	<string name="amajTitle">A Major</string>
+	<string name="bmajTitle">B Major</string>
+</resources>

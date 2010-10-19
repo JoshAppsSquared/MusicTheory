@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/hello"
+    android:gravity="center"
+    />
+    
+<Button 
+	android:text="C" 
+	android:id="@+id/cmaj" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content">
+</Button>
+
+<Button 
+	android:text="D" 
+	android:id="@+id/dmaj" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content">
+</Button>
+
+<Button 
+	android:text="E" 
+	android:id="@+id/emaj" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content">
+</Button>
+
+<Button 
+	android:text="F" 
+	android:id="@+id/fmaj" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content">
+</Button>
+
+<Button 
+	android:text="G" 
+	android:id="@+id/gmaj" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content">
+</Button>
+
+<Button 
+	android:text="A" 
+	android:id="@+id/amaj" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content">
+</Button>
+
+<Button 
+	android:text="B" 
+	android:id="@+id/bmaj" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content">
+</Button>
+
+<Button 
+	android:text="back" 
+	android:id="@+id/hbutton" 
+	android:layout_width="60px"
+	android:layout_height="wrap_content" android:visibility="invisible">
+</Button>
+
+
+</LinearLayout>
